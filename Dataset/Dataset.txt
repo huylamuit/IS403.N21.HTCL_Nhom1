@@ -1,0 +1,3 @@
+RNN: https://www.investing.com/equities/hoa-phat-group-jsc-historical-data
+Arima, Arimax: https://www.investing.com/crypto/bitcoin/historical-data 
+LSTM: https://www.kaggle.com/datasets/rpaguirre/tesla-stock-price
